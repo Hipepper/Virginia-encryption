@@ -1,0 +1,2 @@
+# Virginia-encryption
+密码学实验1，第一部分是简单的维吉尼亚加密，cipher是可以直接在win命令行接受加解密文件地址的函数
